@@ -10,3 +10,5 @@ blinking leds: https://www.youtube.com/watch?v=U4nWk8Ky-Iw
 CQ syuppan: interface december 2022
 
 Tang Nano 9K - Sipeed Wiki https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
+
+trabucayre/openFPGALoader: Universal utility for programming FPGA https://github.com/trabucayre/openFPGALoader
