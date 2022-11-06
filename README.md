@@ -9,7 +9,7 @@ if you are intel mac user, you can employ debian on virtualbox, then you can use
 
 # ref
 
-CQ syuppan: interface december 2022
+CQ syuppan: interface december 2022 in japanese https://interface.cqpub.co.jp/magazine/202212/
 
 Tang Nano 9K - Sipeed Wiki https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
 
