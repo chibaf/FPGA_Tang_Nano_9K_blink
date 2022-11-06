@@ -3,6 +3,7 @@
 
 fpga codes for Gowin_V1.9.8.07
 
+blinking leds: https://www.youtube.com/watch?v=U4nWk8Ky-Iw
 
 #ref
 
